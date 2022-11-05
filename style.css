@@ -1,0 +1,13 @@
+body {
+   background-color: #000807;
+   display: flex;
+   align-items: center;
+   min-height: 100vh;
+   margin-left: 120px;
+   font-family: 'Noto Serif JP', serif;
+   font-weight: 200;
+}
+#typingTxt {
+   color: #fff;
+   font-size: 100px;
+}
